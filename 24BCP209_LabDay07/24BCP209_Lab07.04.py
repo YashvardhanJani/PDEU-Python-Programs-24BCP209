@@ -15,4 +15,4 @@ def char_frequency():
 
 char_frequency()
 
-# Note : Here 'A' & 'a' are count as different character.
+# Note :- Here 'A' & 'a' are count as different character.
