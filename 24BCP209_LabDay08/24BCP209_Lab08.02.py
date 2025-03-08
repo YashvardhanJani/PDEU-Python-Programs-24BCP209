@@ -4,7 +4,7 @@ import random
 
 def set_operations():
     random_num = {random.randint(15,45) for _ in range(10)}
-    print("Set after deletion of numbers greter than 35 =",random_num)
+    print("Set of 10 random numbers in the range 15 to 45 =",random_num)
 
     count_lessthan_30 = sum(1 for num in random_num if num < 30)
     print("Count of numbers which are less than 30 =",count_lessthan_30)
