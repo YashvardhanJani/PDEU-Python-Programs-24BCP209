@@ -17,4 +17,4 @@ def count_digits(str):
 str = input("Enter the string : ")
 
 print("No. of alphabets in the string is :",count_alphabets(str))
-print("No. of alphabets in the string is :",count_digits(str))
+print("No. of digits in the string is :",count_digits(str))
