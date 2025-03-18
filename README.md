@@ -25,6 +25,7 @@ This repository contains Python programs as part of the **Python 🐍 Course**.
 | LabDay06   | Tuple related Programs        | 🔗[View](./24BCP209_LabDay06) |
 | LabDay07   | Dictionary related Programs   | 🔗[View](./24BCP209_LabDay07) |
 | LabDay08   | Set related Programs          | 🔗[View](./24BCP209_LabDay08) |
+| LabDay09   | Function & Recusion related Programs          | 🔗[View](./24BCP209_LabDay09) |
 
 > 📌 *Click on the links to navigate to the respective folders.*
 
