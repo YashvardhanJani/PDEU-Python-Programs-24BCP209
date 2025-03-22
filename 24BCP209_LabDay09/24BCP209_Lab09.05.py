@@ -13,3 +13,6 @@ test_sentences = [
 
 for sentence in test_sentences:
     print(f'"{sentence}" is a pangram: {ispangram(sentence)}')
+
+str = input("\nEnter the string : ")
+print(f'"{str}" is a pangram: {ispangram(str)}')
