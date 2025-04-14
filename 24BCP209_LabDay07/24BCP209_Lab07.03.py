@@ -1,4 +1,4 @@
-# 03. Create a dictionary with dept name, employee roll no. and salary. Find out department wise min and maximum of salary.
+# 03. Create a dictionary with dept name, employee roll no. and salary. Find out department wise minimum and maximum of salary.
 
 def create_employee_dict():
     employee_dict = {}

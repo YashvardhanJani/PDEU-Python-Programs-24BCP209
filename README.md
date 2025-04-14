@@ -25,7 +25,11 @@ This repository contains Python programs as part of the **Python 🐍 Course**.
 | LabDay06   | Tuple related Programs        | 🔗[View](./24BCP209_LabDay06) |
 | LabDay07   | Dictionary related Programs   | 🔗[View](./24BCP209_LabDay07) |
 | LabDay08   | Set related Programs          | 🔗[View](./24BCP209_LabDay08) |
-| LabDay09   | Function & Recusion related Programs          | 🔗[View](./24BCP209_LabDay09) |
+| LabDay09   | Function & Recusion related Programs | 🔗[View](./24BCP209_LabDay09) |
+| LabDay10   | File Handling related Programs | 🔗[View](./24BCP209_LabDay10) |
+| LabDay11   | Exception Handling related Programs | 🔗[View](./24BCP209_LabDay11) |
+
+- [**Mid-Sem Exam Questions with Solution**](./Mid-Sem-Exam_Qs)
 
 > 📌 *Click on the links to navigate to the respective folders.*
 
