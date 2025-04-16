@@ -38,8 +38,8 @@ END:VCARD
 
         print(f"\n✅ vCard saved as '{filepath}'. You can now transfer it to your phone and import it into your contacts.")
 
-        another = input("\nDo you want to create another vCard? (y/n): ").strip().upper()
-        if another != 'y':
+        another = input("\nDo you want to create another vCard? (Y/N): ").strip().upper()
+        if another != 'Y':
             print("\n👋 Program terminated.")
             break
 
