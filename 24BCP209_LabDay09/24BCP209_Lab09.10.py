@@ -18,6 +18,6 @@ def frequency(input_string):
     sorted_freq = {word: word_freq[word] for word in sorted_words}
     return sorted_freq
 
-input_string = input_string = input("Enter the string : ")
+input_string = input("Enter the string : ")
 result = frequency(input_string)
 print(result)
